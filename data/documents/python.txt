@@ -1,0 +1,9 @@
+Python is a high-level, interpreted programming language known for its simple and readable syntax.
+
+Python is widely used in data science, machine learning, web development, automation, and scientific computing.
+
+Python supports multiple programming paradigms, including object-oriented, procedural, and functional programming.
+
+Python has a large ecosystem of libraries and frameworks. Popular libraries include NumPy and pandas for data analysis, and Flask and Django for web development.
+
+Python programs are commonly stored in files with the .py extension. 
